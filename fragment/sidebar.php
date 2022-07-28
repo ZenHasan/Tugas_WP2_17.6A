@@ -16,15 +16,9 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a href="index2.html" class="nav-link">
+                <a href="#" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
                     <p>Profile</p>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a href="index3.html" class="nav-link">
-                    <i class="far fa-circle nav-icon"></i>
-                    <p>Sign Out</p>
                 </a>
             </li>
         </ul>
@@ -146,15 +140,15 @@
         </a>
         <ul class="nav nav-treeview">
             <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="index.php?hal=laporan_harian" class="nav-link">
                     <i class="far fa-circle nav-icon"></i>
-                    <p>Barang Masuk</p>
+                    <p>Laporan Harian</p>
                 </a>
             </li>
             <li class="nav-item">
-                <a href="../layout/top-nav-sidebar.html" class="nav-link">
+                <a href="index.php?hal=laporan_bulanan" class="nav-link">  
                     <i class="far fa-circle nav-icon"></i>
-                    <p>Barang Keluar</p>
+                    <p>Laporan Bulanan</p>
                 </a>
             </li>
 

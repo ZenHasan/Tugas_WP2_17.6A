@@ -112,6 +112,7 @@
                         </a>
                         <div class="dropdown-divider"></div>
                         <a href="#" class="dropdown-item dropdown-footer">See All Messages</a>
+                        
                     </div>
                 </li>
                 <!-- Notifications Dropdown Menu -->
@@ -149,6 +150,13 @@
                 <li class="nav-item">
                     <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#" role="button">
                         <i class="fas fa-th-large"></i>
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-link" data-slide="true" href="index1.php">
+                        <i class="far fa-log-out nav-icon"></i>
+                        <span class="bg-secondary">Logout</span>
+                        <i class=""></i>
                     </a>
                 </li>
             </ul>
